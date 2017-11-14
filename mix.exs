@@ -10,7 +10,6 @@ defmodule OrdMap.MixProject do
       deps: deps(),
 
       # Docs
-      # build: mix compile && ex_doc "OrdMap" "0.1.0" "_build/dev/lib/ord_map/ebin"
       name: "OrdMap",
       source_url: "https://github.com/MartinKavik/ord_map",
       docs: [
